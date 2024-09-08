@@ -1,4 +1,3 @@
-package DSA_geeks_for_geeks;
 public class Palindrome {
     public static boolean isPalindrome(int num){
         int rev = 0;

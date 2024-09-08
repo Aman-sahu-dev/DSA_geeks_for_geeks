@@ -1,8 +1,7 @@
-package DSA_geeks_for_geeks;
 public class Factorial {
     public static int factorialUsingLoop(int num){
         int fact = 1;
-        for(int i = 1; i <=num; i++){
+        for(int i = 2; i <=num; i++){
             fact *= i;
         }
         return fact;

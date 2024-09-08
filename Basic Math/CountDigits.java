@@ -1,4 +1,3 @@
-package DSA_geeks_for_geeks;
 public class CountDigits {
     public static void countDigits(int num){
         int count = 0;
