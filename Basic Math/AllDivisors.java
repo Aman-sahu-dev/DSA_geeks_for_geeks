@@ -14,8 +14,8 @@ public class AllDivisors {
         }
     }
     public static void main(String[] args) {
-        allDivisors(100);
+        // allDivisors(100);
         System.out.println();
-        optimizedAllDivisors(100);
+        optimizedAllDivisors(176);
     }
 }

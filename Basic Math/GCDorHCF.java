@@ -25,6 +25,6 @@ public class GCDorHCF {
     }
     public static void main(String[] args) {
         // System.out.println(gcd(10, 15));
-        System.out.println(euclideanGcd(10, 15));
+        System.out.println(euclideanGcd(43, 91));
     }
 }
